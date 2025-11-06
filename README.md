@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red)](https://streamlit.io)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-orange)](https://mysql.com)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 A production-ready, enterprise-grade ETL pipeline with integrated analytics dashboard for processing customer and order data. Built with modern Python practices, comprehensive error handling, and scalable architecture.
 
