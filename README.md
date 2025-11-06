@@ -255,9 +255,6 @@ Options:
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🆘 Support & Troubleshooting
 
@@ -286,10 +283,6 @@ netstat -tulpn | grep 8501
 - Check file permissions and accessibility
 - Validate data quality and completeness
 
-### **Getting Help**
-- 📧 Email: support@akasa-air-etl.com
-- 🐛 Issues: [GitHub Issues](https://github.com/your-repo/issues)
-- 📖 Documentation: [Wiki](https://github.com/your-repo/wiki)
 
 ---
 
